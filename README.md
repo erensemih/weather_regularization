@@ -1,1 +1,1 @@
-In this project, I've built a simple lgbm model to predict electricity consumption in spain and tried to provide some useful techniques to properly use weather forecasting data in the forecasting model.  
+In this project, I've built a simple lgbm model to predict electricity consumption in spain and tried to provide some useful techniques to properly use weather forecasting data in the forecasting model.
